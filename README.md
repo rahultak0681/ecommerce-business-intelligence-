@@ -320,7 +320,6 @@ Data Analyst
 
 
 LinkedIn:
-(Add LinkedIn)
+https://www.linkedin.com/in/baldev-tak/
 
-GitHub:
-(Add GitHub)
+
